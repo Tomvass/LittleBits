@@ -1,0 +1,1 @@
+LittleBits code used in connecting to and communicating with littlebits using node.js
